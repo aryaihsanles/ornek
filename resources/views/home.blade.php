@@ -1,5 +1,5 @@
 <x-layout>
 <x-slot name=heading>
-        Halaman Utama
+        Home Page
     </x-slot:heading>
 </x-layout>
